@@ -1,0 +1,29 @@
+ÿßDim max1 As Long
+
+Private Sub Command2_Click()
+Form3.Show
+End Sub
+
+Private Sub Command3_Click()
+max1 = Text1.Text
+If Command3.Caption = "GO!" Then
+Timer1.Interval = 1
+Command3.Caption = "STOP"
+Else
+Timer1.Interval = 0
+Command3.Caption = "GO!"
+End If
+End Sub
+
+Private Sub Image2_Click()
+End
+End Sub
+
+Private Sub Timer1_Timer()
+Dim tempnum As Long
+tempnum = Rnd * max1 + 1
+If tempnum = max1 + 1 Then
+tempnum = 1
+End If
+Label1.Caption = tempnum
+End Sub
