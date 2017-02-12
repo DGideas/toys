@@ -1,0 +1,2 @@
+urlcode is a part of multilanguage supporting.
+You can see it with config.php
