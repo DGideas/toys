@@ -1,0 +1,7 @@
+本软件是在 NCSA Mosaic 的基础上完成的。NCSA Mosaic(TM) 由位于 Urbana-Champaign 的伊利诺斯大学的超级计算机应用程序国家中心(NCSA)开发。
+未经 Spyglass 公司的授权许可不得擅自发布该软件。
+包括由 RSA Data Security Inc. 授权的安全软件。
+该软件的部分模块是以独立工作组 JPEG 所做工作为基础的。
+由 Intel 公司提供的多媒体软件组件包括 Indeo(R) 视频、Indeo(R) 音频和 Web 设计效果。
+Unix 版本包括由 Mainsoft 公司授权的软件。版权所有(c) 1998-1999 Mainsoft 公司。保留所有权利。Mainsoft 是 Mainsoft 公司的注册商标。
+警告: 本计算机程序受著作权法和国际公约的保护，未经授权擅自复制或散布本程序的部分或全部，将承受严厉的民事和刑事处罚，对已知的违反者将给予法律范围内的全面制裁。

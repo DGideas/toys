@@ -1,0 +1,34 @@
+'变量通用
+Dim UCB As String
+'变量通用
+Dim UCB2 As String
+
+Private Sub Back_Click()
+Label1.Caption = "欢迎使用：世界金融换算系统！！！"
+End Sub
+
+Private Sub Command1_Click()
+'结束语句
+End
+End Sub
+
+Private Sub Command2_Click()
+'结果=美元*6.9
+ UCB2 = UCB * 6.9
+ '显示:结果
+ Label1.Caption = UCB2
+End Sub
+
+Private Sub mnuExit_Click()
+'退出
+End
+End Sub
+
+Private Sub Text1_Change()
+'变量
+ UCB = Text1.Text
+End Sub
+
+Private Sub vista_Click()
+Label1.Caption = "版本:1.1"
+End Sub
